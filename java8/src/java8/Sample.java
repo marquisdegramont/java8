@@ -6,7 +6,10 @@ public class Sample {
 		System.out.println("hello world");
 	}
 	public void display() {
-		System.out.println("hello");
+		System.out.println("hello world ");
+	}
+	public void display_bar() {
+		System.out.println("hello srikanth ");
 	}
 
 }
